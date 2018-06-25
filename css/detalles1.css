@@ -1,0 +1,23 @@
+h1{
+	color: red;
+}
+
+h2{
+	color: blue;
+}
+ h3{
+ 	color: #3bcd2f;
+ }
+
+.fondo-color{
+		margin: 10px;
+		background: #d85bce;
+		border-radius: 1em;
+		padding: 1em;
+
+}
+.fondo-producto{
+	background: #d85bce;
+	border-radius: 1em;
+	padding: 3em;
+}

@@ -1,0 +1,79 @@
+body {
+	background: #AFD2C8;
+	color: #fff;
+}
+
+header {
+	background: #057958;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.contenedor-main {
+margin-bottom: 20px;	
+}
+
+
+main {
+	background: #21B54D;
+	color: #424242;
+	padding: 20px 0;
+}
+
+aside {
+	background: #24C7CA;
+	padding: 60px 0;
+	color: #0d47a1;
+}
+
+.widgets {
+	color: #424242;
+	margin-bottom: 20px;
+}
+
+.widgets > div {
+	background: #2196f3;
+	color: #fff;
+	padding: 20px;
+}
+
+footer {
+	background: #4d4e5d;
+	height: 500px;
+
+}
+
+
+.productos {
+		
+	height: 300px;
+	margin: 10px 5px;
+	color: #ffffff;
+}
+.redes_social{
+	list-style:none;
+	margin-right: 20%;
+}
+.redes_social li {
+	float: right;
+}
+.contacto{
+	list-style:none;
+}
+.contacto span{
+	color: white;
+}
+.gatito{
+	float: left;
+	width: 15%;
+}
+
+.productos h2{
+	color: #d52740;
+	text-align: center;
+}
+
+.productos p{
+
+	justify-content: text;
+}
